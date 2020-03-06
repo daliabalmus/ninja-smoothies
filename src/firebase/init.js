@@ -3,14 +3,14 @@ import firebase from 'firebase'
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-apiKey: "AIzaSyAiMQMnQrsJxkdEC-zucNgXgHdtJKGSGcY",
-authDomain: "smoothies-57b8b.firebaseapp.com",
-databaseURL: "https://smoothies-57b8b.firebaseio.com",
-projectId: "smoothies-57b8b",
-storageBucket: "smoothies-57b8b.appspot.com",
-messagingSenderId: "1062948368492",
-appId: "1:1062948368492:web:7e3569dc04e580429b2849",
-measurementId: "G-91XM7KHT37"
+       apiKey: "AIzaSyC30oUMjghOD-x9uv8QkN49bgvYsyHKDlU",
+       authDomain: "smoothie-project-e787d.firebaseapp.com",
+       databaseURL: "https://smoothie-project-e787d.firebaseio.com",
+       projectId: "smoothie-project-e787d",
+       storageBucket: "smoothie-project-e787d.appspot.com",
+       messagingSenderId: "712539319085",
+       appId: "1:712539319085:web:bd2fd753852699f11b41a4",
+       measurementId: "G-CLC5T13DER"
 };
 // Initialize Firebase
 const firebaseApp = firebase.initializeApp(firebaseConfig);
